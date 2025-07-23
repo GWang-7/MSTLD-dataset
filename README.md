@@ -13,3 +13,6 @@ To achieve high-quality annotations with reduced time costs, a hybrid annotation
 
 The dataset covers multiple scenarios, and several groups of representative scenarios along with their corresponding annotation information are shown in the figure.
 ![标注数据集](https://github.com/user-attachments/assets/2e66e21c-12a4-47c1-b873-ae9960ac4051)
+
+# Data Access 
+Currently, the MSTLD dataset has been partially released. Researchers who require access to the data can contact us and specify the intended use.
