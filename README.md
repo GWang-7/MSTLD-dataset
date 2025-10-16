@@ -6,14 +6,14 @@ Galloping of transmission lines caused by extreme
 weather conditions poses a severe threat to the stable delivery
 of electric power. Current mainstream monitoring approaches
 typically employ deep learning–based segmentation algorithms
-to extract transmission lines from images, followed by classification of galloping severity. The accuracy of the segmentation
+to extract transmission lines from images, followed by classification of galloping severity. The accuracy of the segmentation
 algorithms largely depends on the quality of the transmission
 line segmentation dataset and directly impacts the reliability of
-galloping level prediction. However, publicly available transmission line segmentation datasets remain scarce and often suffer
+galloping level prediction. However, publicly available transmission line segmentation datasets remain scarce and often suffer
 from limited scene diversity and suboptimal annotation quality.
 To address these issues, we present MSTLD, a high-quality
 semantic segmentation dataset for transmission lines, featuring
-cross-season, day-night, multi-background, and multi-scale diversity, with 4,000 finely annotated images. First, we introduce a
+cross-season, day-night, multi-background, and multi-scale diversity, with 4,000 finely annotated images. First, we introduce a
 spatiotemporal random sampling strategy and a two-stage data
 filtering process, which not only enhance the dataset’s ability
 to represent real-world operating conditions but also increase
