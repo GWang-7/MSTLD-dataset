@@ -33,3 +33,4 @@ The dataset covers multiple scenarios, and several groups of representative scen
 
 # Data Access 
 Currently, the MSTLD dataset has been partially released. Researchers who require access to the data can contact us and specify the intended use.
+The paper related to the dataset is currently under submission. If it is fortunately accepted in the future, the paper link will be provided.
