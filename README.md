@@ -10,5 +10,5 @@ The dataset covers multiple scenarios, and several groups of representative scen
 ![标注数据集](https://github.com/user-attachments/assets/2e66e21c-12a4-47c1-b873-ae9960ac4051)
 
 # Data Access 
-Currently, a partial release of the MSVMD dataset is available. Researchers seeking to utilize the dataset are requested to contact the corresponding author at gwang@whut.edu.cn, providing a clear statement of their research objectives and intended usage of the data.
+Currently, a partial release of the MSVMD dataset is available. Researchers seeking to utilize the dataset are requested to contact author at gwang@whut.edu.cn, providing a clear statement of their research objectives and intended usage of the data.
 The associated research paper is currently under review. Upon acceptance, the official paper link will be made available on this platform.
